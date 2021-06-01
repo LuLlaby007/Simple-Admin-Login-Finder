@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="author" content="./LuLlaby007"/>
 <title>
-Admin Login Finder By
+Admin Login Finder
 </title>
 </head>
 <body bgcolor=black>
