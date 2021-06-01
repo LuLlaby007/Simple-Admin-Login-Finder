@@ -2,12 +2,12 @@
 <head>
 <meta http-equiv="author" content="./LuLlaby007"/>
 <title>
-Admin Login Finder By ./LuLlaby007
+Admin Login Finder By
 </title>
 </head>
 <body bgcolor=black>
-<p align="left"><font color="white" size="5">Admin Login Finder ./LuLlaby007</font></p>
-<form method="POST" action="<?php $PHP_SELF; ?>">
+<p align="left"><font color="white" size="5">Admin Login Finder</font></p>
+<form method="POST" action="">
 <p align="left"><font color="white">Masukin Web Nya Sayang :</font>
 <input type="text" name="url" value="xnxx.com"/>
 <input type="submit" name="submit" value="Gas Keun Amjinc"/>
@@ -89,9 +89,7 @@ function urlExist($url)
     $urll=$url.'/'.$sec;
     if(urlExist($urll))
     {
-    echo '<br><p align="left"><font color="green">'.$urll.'=>Ada Nahh Ketemu!!<br><p align="center"><font color="red" size="6">Copyright©2020</font><br>
-<p align="center"><font color="red" size="6">Coded By ./LuLlaby007 | CytoXteam</font>
- </font></p>';
+    echo '<br><p align="left"><font color="green">'.$urll.'=>Ada Nahh Ketemu!!<br><p align="center"><font color="red" size="6">Copyright©2020</font><br></font></p>';
     exit;
     }
     else
@@ -109,7 +107,6 @@ function urlExist($url)
 ?>
 <footer>
 <p align="center"><font color="red" size="6">Copyright©2020</font><br>
-<p align="center"><font color="red" size="6">Coded By ./LuLlaby007 | CytoXteam</font>
 </footer>
 </body>
 </html>
